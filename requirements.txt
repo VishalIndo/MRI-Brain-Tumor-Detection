@@ -1,0 +1,13 @@
+torch
+torchvision
+opencv-python-headless
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+scikit-learn
+gradio
+nibabel
+pydicom
+lxml
