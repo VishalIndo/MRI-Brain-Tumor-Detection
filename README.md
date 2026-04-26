@@ -295,8 +295,8 @@ The Gradio app can help in the following way:
 ```markdown
 ## Gradio App Interface
 
-[Gradio App Screenshot](images/gradio_app.png)
-[Gradio App Screenshot](images/gradio_app.png)
+(images/gradio_app1.png)
+(images/gradio_app2.png)
 ```
 
 
@@ -324,7 +324,7 @@ That way the README image links will work correctly.
 ---
 
 
----
+
 
 
 ## Author
