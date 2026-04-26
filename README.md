@@ -295,8 +295,8 @@ The Gradio app can help in the following way:
 ```markdown
 ## Gradio App Interface
 
-(https://raw.githubusercontent.com/VishalIndo/repo/main/images/gradio_app1.png)
-(https://raw.githubusercontent.com/VishalIndo/repo/main/images/gradio_app1.png)
+![Gradio App 1](images/gradio_app1.png)
+![Gradio App 2](images/gradio_app2.png)
 ```
 
 
