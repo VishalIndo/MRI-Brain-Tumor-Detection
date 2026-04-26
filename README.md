@@ -288,21 +288,12 @@ The Gradio app can help in the following way:
 
 ---
 
-![Gradio App 1](images/gradio_app1.png)
-![Gradio App 2](images/gradio_app2.png)
+
 ### Gradio App 
 
 ![Gradio App 1](images/gradio_app1.png)
 ![Gradio App 2](images/gradio_app2.png)
-```markdown
 
-![Gradio App 1](images/gradio_app1.png)
-![Gradio App 2](images/gradio_app2.png)
-## Gradio App Interface
-
-![Gradio App 1](images/gradio_app1.png)
-![Gradio App 2](images/gradio_app2.png)
-```
 
 
 ---
